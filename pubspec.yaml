@@ -1,0 +1,5 @@
+name: logger
+version: 0.0.1
+author: Brandon White <jennexproject+logger@gmail.com>
+description: A timestamped client-side logging package.
+homepage: http://jennex.it/now/dev
